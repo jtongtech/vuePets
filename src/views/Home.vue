@@ -1,5 +1,5 @@
 <template>
-  <div class="home">
+  <div class="home-view-container">
     <h1>Adopt a new Best Friend</h1>
     {{ getAllCats.length }}
     {{ animalsCount }}
